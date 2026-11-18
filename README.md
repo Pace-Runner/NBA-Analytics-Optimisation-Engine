@@ -4,7 +4,14 @@ A sports analytics platform for the NBA, built as our COMS3011A project at Wits.
 ## Links
  
 - Live app: [sportsanalytics.pages.dev](https://sportsanalytics.pages.dev/)
+- Presentation slides: [court-vision-slides.pdf](presentation/court-vision-slides.pdf)
 - Project documentation: [Innovation Documentation Website](https://sports-analytics-innovation-platform.github.io/Innovation-Documentation-Website/)
+For a quick overview, start with the slides. They go through every page of the live app, the UI and accessibility decisions, and the architecture in 29 slides. The documentation site has the full detail.
+ 
+## Team
+ 
+Group Innovation: Owen Pace, Josh Sawyer, Adrian Draxl, Kiran Soodyall, Daniel Passos, and Sanele Hlatshwayo.
+ 
 ## What it does
  
 The core of the app is player and team lookup, game predictions using Elo ratings and the Four Factors model, and a fantasy lineup optimizer built on mixed-integer linear programming (MILP). You can lock players into the optimizer and ask it for alternative lineups.
@@ -38,5 +45,6 @@ The documentation site is built from the `docs/` folder in this repository and r
 - Process: sprint log, scrum meetings, Git methodology, definition of done, coding conventions, CI/CD, testing, and an AI usage ledger
 - Users and stakeholders: client meetings, the stakeholder log, survey results, user interviews, and the improvements we made from them
 If you're marking or reviewing the project, start with the Rubric Quick Links and the Demo Guide on the docs home page.
+
  
 
