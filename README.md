@@ -1,6 +1,9 @@
 # NBA-Analytics-Optimisation-Engine
 A sports analytics platform for the NBA, built as our COMS3011A project at Wits. You can look up players and teams, see game predictions, and build a fantasy lineup. Every stat on the site is calculated from play-by-play data.
 
+<img width="1884" height="1095" alt="image" src="https://github.com/user-attachments/assets/7a7d39f0-cb9f-45fb-a111-42c619ccd76f" />
+  
+
 ## Links
  
 - Live app: [sportsanalytics.pages.dev](https://sportsanalytics.pages.dev/)
